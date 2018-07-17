@@ -1,6 +1,8 @@
+package staticFactoryMethod;
+
 /**
  * @author feiyue
- * @className Dog
+ * @className staticFactoryMethod.Dog
  * @description
  * @date 2018/7/17
  **/
